@@ -8,6 +8,4 @@
 <!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning Dart and Flutter
-- 📫 How to reach me: https://vk.me/dim_str/
-
 
